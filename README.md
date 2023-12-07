@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hello, I'm Matthew Versfeld 👋
 
-<!--
-**MattVersfeld/MattVersfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer based in Cape Town. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Living in Cape Town, South Africa
+- 💻 Completed a software development certificate through CodeSpace
+- 🚀 Ambitious, driven, motivated, and eager to learn
+
+## Hobbies
+
+- 🎮 Gaming
+- 🍰 Baking
+- 💪 Gym
+
+## Technologies
+
+Here are some technologies I've been working with:
+
+1. JavaScript
+2. HTML & CSS
+3. React.js
+4. Fuse.js
+5. Material UI
+6. SupaBase
+
+## Project Spotlight
+
+Check out my pinned project: [Let's Talk Podcasts](<link-to-your-pinned-project>) built with React.js.
+
+## Connect with Me
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/matt-versfeld-tech/)!
+
+Feel free to explore my repositories and don't hesitate to reach out. I'm always up for collaboration and learning new things.
+
+Happy coding! 🚀
