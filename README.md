@@ -27,7 +27,7 @@ Here are some technologies I've been working with:
 
 ## Project Spotlight
 
-Check out my pinned project: [Let's Talk Podcasts](<link-to-your-pinned-project>) built with React.js.
+Check out my pinned project: [Let's Talk Podcasts](https://dazzling-pegasus-dd3784.netlify.app/) built with React.js.
 
 ## Connect with Me
 
