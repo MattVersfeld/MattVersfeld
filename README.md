@@ -28,7 +28,6 @@ Check out my pinned project: [Let's Talk Podcasts](https://dazzling-pegasus-dd37
 
 ## Connect with Me
 
-Let's connect on
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-versfeld-tech/)
 
 Feel free to explore my repositories and don't hesitate to reach out. I'm always up for collaboration and learning new things.
